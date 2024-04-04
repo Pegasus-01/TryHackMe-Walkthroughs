@@ -3,7 +3,7 @@ In this repository, I will upload walkthroughs of the CTFs and Challenges I solv
 
 You can follow me on the following platforms to stay updated with my works and projects.
 
-* LikedIN
+* [TryHackme](https://tryhackme.com/p/pegasus01)
+* [LikedIN](https://www.linkedin.com/in/rudranil01/)
 * Github
-* TryHackme
 * [Medium](https://medium.com/@rudranilmaity01)
