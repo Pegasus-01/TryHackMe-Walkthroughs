@@ -5,5 +5,5 @@ You can follow me on the following platforms to stay updated with my works and p
 
 * [TryHackme](https://tryhackme.com/p/pegasus01)
 * [LikedIN](https://www.linkedin.com/in/rudranil01/)
-* Github
+* [Github](https://github.com/Pegasus-01)
 * [Medium](https://medium.com/@rudranilmaity01)
