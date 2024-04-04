@@ -6,4 +6,4 @@ You can follow me on the following platforms to stay updated with my works and p
 * LikedIN
 * Github
 * TryHackme
-* Medium
+* [Medium](https://medium.com/@rudranilmaity01)
